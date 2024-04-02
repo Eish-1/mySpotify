@@ -1,0 +1,39 @@
+"You don't know everything before you make a project
+ You learn by making the project"
+
+ Make your own project after this is over with.
+
+ And try to make it as unique as possible.
+
+ It is recommended to be making a "similar" kind of clone
+ making the exact same thing will take more like months and years
+ since these sites have been made by pros.
+
+ you can even make more clones of spotify pages and when at the end 
+ we would have learned JavaScript we will be able to include and interconnect
+ those pages.
+
+
+ SHRADDHA DI
+
+
+ divides the components and chunk of the project in parts.
+
+ here:-
+ 1) sidebar
+ 2) main content next to sidebar
+ 3) bottom player
+
+ 3 main div's acting like grids.
+
+ spotify might have had taken us down. if we had used their specific font
+
+ even using inspect at times is allowed to know what exact elements are to be used.
+ but that does take away the challenge a little more.'
+
+
+ The range input consists of slider
+ and slider includes. thumb and track.   --> Quirksmode.org
+
+ Looking at things like blocks in CSS breaking them down it smaller chunks
+ and fitting them in where necessary
